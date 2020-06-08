@@ -1,5 +1,5 @@
 # Purpose
-This is a webpage built with HTML/CSS with the purpose of practicing **creation of forms; input includes email, phone, and password** (and Git LFS).
+This is a webpage built with HTML/CSS with the purpose of practicing **creation of forms; input includes email, phone, and password**.
 This webpage was based off of the sign in page of mint/intuit's sign up page.
 
 ## See The Site
